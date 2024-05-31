@@ -1,4 +1,4 @@
-# Sabek W Lahek 🏁
+# Sabek & Lahek 🏁
 Welcome to our x86 Assembly Racing Game! This classic-style racing game brings retro fun to your fingertips. Race against friends either on the same machine or through a local network connection. Dodge obstacles, collect power-ups, and unleash fiery attacks on your opponents as you compete for victory!
 
 
